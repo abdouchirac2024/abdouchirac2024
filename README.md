@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ MARINA!;Mern+Stack+Developer+Laravel+💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shourya+Saxena!;Mern+Stack+Developer+💻;" />
 </h1>
 
 

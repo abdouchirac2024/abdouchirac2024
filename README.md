@@ -4,11 +4,11 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ NJUTAPMVOUI+ABDOU+ARAHAMANOU+CHIRAC!;Mern+Stack+Developer+Laravel+💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ NJUTAPMVOUI ABDOU ARAHAMANOU CHIRAC!;Mern+Stack+Developer+Laravel+💻;" />
 </h1>
 
 <h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
-<h2 align="center">👋 I am KENMEGNE YOH IVANA MARINA, a passionate MERN stack developer and coding enthusiast from Cameroon🌍!</h2>
+<h2 align="center">👋 I am ,NJUTAPMVOUI ABDOU ARAHAMANOU CHIRAC a passionate MERN stack developer and coding enthusiast from Cameroon🌍!</h2>
 
 <br/>
 

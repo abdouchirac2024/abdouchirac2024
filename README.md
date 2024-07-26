@@ -34,7 +34,7 @@
 📫 Contact Me At *abdouchirac411@gmail.com*
 
 <h5>
-  🔗 Know more About me on <a href="www.linkedin.com/in/abdou-njutapmvoui-288428223" target="_blank">LinkedIn</a>
+  🔗 Know more About me on <a href="https://www.linkedin.com/in/abdou-njutapmvoui-288428223/" target="_blank">LinkedIn</a>
 </h5>
 
 <hr/>
